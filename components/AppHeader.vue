@@ -6,7 +6,7 @@
         <nuxt-link to="/">Home</nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/blog/first-blog-post">Blog</nuxt-link>
+        <nuxt-link to="/locations">Locations</nuxt-link>
         <!-- Fix blog link to most recent article -->
       </li>
     </ul>
