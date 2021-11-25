@@ -4,7 +4,7 @@
 ## Github Links
 - Repo: https://github.com/Archangel767/cpnt200-a3
 - Pages: https://archangel767.github.io/cpnt200-a3/
-- Netlify: 
+- Netlify: https://app.netlify.com/sites/eloquent-brahmagupta-5f1d16/overview
 
 ## Code Review
 - Decided to keep my header/footer components static, which took some time to figure out the pathing, but otherwise everything went reasonably smoothly.
